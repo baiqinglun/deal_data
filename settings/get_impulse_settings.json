@@ -1,0 +1,21 @@
+{
+  "files": [],
+  "mass": [],
+  "image_output_folder": "MEKPO",
+  "species": "MEKPO",
+  "gaussian_filter_sigma": 1.5,
+  "is_show_image": true,
+  "points_one_second": 20000,
+  "figure_size": [8,6],
+  "x_label": "Time(s)",
+  "y_label": "Pressure",
+  "figure_title": "Pressure curve at the peak of ",
+  "is_figure_grid": false,
+  "scope_range_factor": 6,
+  "figure_dpi": 300,
+  "color_count": 5,
+  "color_id":5,
+  "data_folder": "MEKPO",
+  "unit": "MPa",
+  "font_size": 12
+}
